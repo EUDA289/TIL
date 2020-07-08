@@ -10,6 +10,8 @@
 
 3. 리포의 상태보기 `$ git status`
 4. stage에 올리기 `$ git add` (파일 수정하고 add, index까지..중간단계? 변경사항만 add한다?)
+   1. 특정 파일만 올리기 ` $ git add <filename>`
+   2. 다 올리기 `$ git add .`
 5. snapshot 찍기`$ git commit`(수정한 걸 commit, head로// )
 6. 로그 보기 `$ git log`
 
