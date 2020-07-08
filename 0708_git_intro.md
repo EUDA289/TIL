@@ -24,9 +24,10 @@
 ## 집 컴퓨터 세팅
 
 1. git 다운로드 및 설정
-2. `$ git config --global.user.name "name"`
-3. `$ git config --global.user.email "email"`
-4. ` $ git clone <url>`
+2. windows 키 누르고 => git bash 찾아서 실행(집 컴의 홈폴더~)
+3. `$ git config --global.user.name "name"`
+4. `$ git config --global.user.email "email"`
+5. ` $ git clone <url>`
 
 
 
